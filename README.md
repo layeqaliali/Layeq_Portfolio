@@ -15,3 +15,10 @@
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
+
+# [Project 3: German Traffic Sign](https://github.com/layeqaliali/German_traffic_sign_detection)
+* Brain Tumor Detection program is designed to help doctors to find whether patient have this disease with CT scans dataset.
+* Scraped over 1000 job descriptions from glassdoor using python and selenium
+* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
+* Built a client facing API using flask 

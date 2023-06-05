@@ -9,8 +9,8 @@
 
 ![](images/humanoid.jpeg)
 
-# [Project 2: Brain Tumor Detection](https://github.com/layeqaliali/Brain_tumor_detection)
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+# [Project 2: Brain Tumor Detection](https://github.com/layeqaliali/Brain_tumor_detection/blob/main/brain_tumor.ipynb)
+* Brain Tumor Detection program is designed to help doctors to find whether patient have this disease with CT scans dataset.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 

@@ -1,4 +1,5 @@
 # Layeq_Portfolio
+![](pic.jpg)
 Hello and welcome to my portfolio! I am Layeq Ali, a passionate and dedicated professional in the field of Machine Learning and Robotics. With a strong background in both theoretical knowledge and practical applications, I strive to push the boundaries of technological innovation and create intelligent systems that enhance human lives. 
 
 # [Project 1: Humanoid Robot](https://youtube.com/shorts/sz7JJU25oyM)

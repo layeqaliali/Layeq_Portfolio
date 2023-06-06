@@ -16,6 +16,9 @@
 
 
 # [Project 3: German Traffic Sign](https://github.com/layeqaliali/German_traffic_sign_detection)
+* This project is designed to identify the road traffic signs.
+* A model is trained with 43 traffic signs.
+* Sign names are available in signnames.csv file.
 
 
 

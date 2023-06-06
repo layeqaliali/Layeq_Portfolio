@@ -23,4 +23,7 @@
 
 
 # [Project 4: Plant Disease Detection](https://github.com/layeqaliali/Plant_disease_detection)
+* Plant disease detection is designed to help agriculture industry to find the disease of the plant.
+* Selected plants dataset is arrange to train model to find the disease.
 
+# [Project 5: Face Tracing using ESP32](https://github.com/layeqaliali/Face_tracing_ESP32_cam)

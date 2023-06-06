@@ -27,3 +27,5 @@
 * Selected plants dataset is arrange to train model to find the disease.
 
 # [Project 5: Face Tracing using ESP32](https://github.com/layeqaliali/Face_tracing_ESP32_cam)
+
+# [Project 6: Basic lectures OpenCV](https://github.com/layeqaliali/OpenCV)

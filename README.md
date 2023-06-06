@@ -11,6 +11,7 @@
 
 # [Project 2: Brain Tumor Detection](https://github.com/layeqaliali/Brain_tumor_detection/blob/main/brain_tumor.ipynb)
 * Brain Tumor Detection program is designed to help doctors to find whether patient have this disease with CT scans dataset.
+* It uses the sequential model in deep learning.
 
 
 
